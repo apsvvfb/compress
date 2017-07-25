@@ -1,0 +1,458 @@
+[?1034h{
+  1 : 
+    {
+      sharedClones : 
+        {
+          1 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          2 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          3 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          4 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          5 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          6 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          7 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+        }
+      step : 8
+      outputs : 
+        {
+          1 : CudaTensor - size: 5x4
+          2 : CudaTensor - size: 5x4
+          3 : CudaTensor - size: 5x4
+          4 : CudaTensor - size: 5x4
+          5 : CudaTensor - size: 5x4
+          6 : CudaTensor - size: 5x4
+          7 : CudaTensor - size: 5x4
+        }
+      output : CudaTensor - size: 5x4
+      gradInput : CudaTensor - empty
+      modules : 
+        {
+          1 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+        }
+      _gradOutputs : {...}
+      rho : 7
+      recurrentModule : 
+        {
+          gradInput : CudaTensor - empty
+          modules : 
+            {
+              1 : 
+                {
+                  output : CudaTensor - size: 5x6
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              2 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              3 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+            }
+          _type : "torch.CudaTensor"
+          output : CudaTensor - size: 5x4
+        }
+      nSharedClone : 7
+      _type : "torch.CudaTensor"
+      gradInputs : {...}
+      module : 
+        {
+          gradInput : CudaTensor - empty
+          modules : 
+            {
+              1 : 
+                {
+                  output : CudaTensor - size: 5x6
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              2 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              3 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+            }
+          _type : "torch.CudaTensor"
+          output : CudaTensor - size: 5x4
+        }
+      rmInSharedClones : true
+    }
+}
+{
+  1 : 
+    {
+      sharedClones : 
+        {
+          1 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          2 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          3 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          4 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          5 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          6 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          7 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          8 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+          9 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+        }
+      step : 10
+      outputs : 
+        {
+          1 : CudaTensor - size: 5x4
+          2 : CudaTensor - size: 5x4
+          3 : CudaTensor - size: 5x4
+          4 : CudaTensor - size: 5x4
+          5 : CudaTensor - size: 5x4
+          6 : CudaTensor - size: 5x4
+          7 : CudaTensor - size: 5x4
+          8 : CudaTensor - size: 5x4
+          9 : CudaTensor - size: 5x4
+        }
+      output : CudaTensor - size: 5x4
+      gradInput : CudaTensor - empty
+      modules : 
+        {
+          1 : 
+            {
+              gradInput : CudaTensor - empty
+              modules : 
+                {
+                  1 : {...}
+                  2 : {...}
+                  3 : {...}
+                }
+              _type : "torch.CudaTensor"
+              output : CudaTensor - size: 5x4
+            }
+        }
+      _gradOutputs : {...}
+      rho : 9
+      recurrentModule : 
+        {
+          gradInput : CudaTensor - empty
+          modules : 
+            {
+              1 : 
+                {
+                  output : CudaTensor - size: 5x6
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              2 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              3 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+            }
+          _type : "torch.CudaTensor"
+          output : CudaTensor - size: 5x4
+        }
+      nSharedClone : 9
+      _type : "torch.CudaTensor"
+      gradInputs : {...}
+      module : 
+        {
+          gradInput : CudaTensor - empty
+          modules : 
+            {
+              1 : 
+                {
+                  output : CudaTensor - size: 5x6
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              2 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+              3 : 
+                {
+                  output : CudaTensor - size: 5x4
+                  gradInput : CudaTensor - empty
+                  nInputDim : 1
+                  batchmode : true
+                  zeroMask : CudaTensor - size: 5x1
+                  _type : "torch.CudaTensor"
+                  _zeroMask : CudaTensor - size: 5x1
+                  module : {...}
+                  modules : {...}
+                }
+            }
+          _type : "torch.CudaTensor"
+          output : CudaTensor - size: 5x4
+        }
+      rmInSharedClones : true
+    }
+}

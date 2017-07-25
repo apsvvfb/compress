@@ -1,0 +1,22 @@
+
+t2sub -l walltime=2:01:5 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_5.sh
+t2sub -l walltime=2:01:10 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_10.sh
+t2sub -l walltime=2:01:15 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_15.sh
+t2sub -l walltime=2:01:20 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_20.sh
+t2sub -l walltime=2:01:25 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_25.sh
+t2sub -l walltime=2:01:30 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_30.sh
+t2sub -l walltime=2:01:35 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_35.sh
+t2sub -l walltime=2:01:40 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_40.sh
+t2sub -l walltime=2:01:45 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_45.sh
+t2sub -l walltime=2:01:50 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_50.sh
+t2sub -l walltime=2:01:55 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_55.sh
+t2sub -l walltime=2:01:60 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_60.sh
+t2sub -l walltime=2:01:65 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_65.sh
+t2sub -l walltime=2:01:70 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_70.sh
+t2sub -l walltime=2:01:75 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_75.sh
+t2sub -l walltime=2:01:80 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_80.sh
+t2sub -l walltime=2:01:85 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_85.sh
+t2sub -l walltime=2:01:90 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_90.sh
+t2sub -l walltime=2:01:95 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_95.sh
+t2sub -l walltime=2:01:100 -et 1 -m abe -M apsvvfb@gmail.com -W group_list=t2g-crest-deep-sh -q S -l select=1:ncpus=8:gpus=1:mem=30gb ./jobTest_h64_6988_soft_initialized_t2_lr0.01_MED14_100.sh
+
